@@ -21,7 +21,7 @@ I am an aspiring **Junior Java Developer** currently based in Israel. While I am
 
 <h3>
   <a href="https://raw.githubusercontent.com/YuriiJavaDev/portfolio/main/YuriiJavaDev_Resume_CV_030226_1029.pdf">
-    <u>📄 View (download) My Portfolio CV</u>
+    <u>📄 My Portfolio CV. View (download) YuriiJavaDev.pdf</u>
   </a>
 </h3>
 
