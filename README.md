@@ -15,6 +15,8 @@ I am an aspiring **Junior Java Developer** currently based in Israel. While I am
 
 👨‍💻 **Background**: Have a long-time hobbyist passion for programming, starting with Fortran, Basic, VB, and Web tech.
 
+[Portfolio CV](https://github.com/YuriiJavaDev/portfolio/blob/main/YuriiJavaDev_Resume_CV_030226_1029.pdf)
+
 🍕 **Fun fact**: I still code in Java for food! (But the coffee must be good ☕️)
 
 ---
