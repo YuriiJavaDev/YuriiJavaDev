@@ -7,11 +7,13 @@ I am an aspiring **Junior Java Developer** currently based in Israel. While I am
 🚀 **Educational Project Development**: Developed Spring Boot applications with JDBC, Hibernate, and REST API integration.
 
 🛠 **Detailed Tech Stack**:
-* **Core**: Java, Spring Boot, Maven.
-* **Database**: PostgreSQL, Spring Data JPA, Hibernate.
+* **Core**: Java, Spring Boot, Swing, Maven, Gradle.
+* **Data & ORM**: PostgreSQL, MongoDB; Spring Data JPA, Hibernate.
 * **Database Tools**: Flyway (migrations), Testcontainers (integration testing).
-* **Testing**: JUnit 5, Mockito (TDD & SOLID principles).
-* **DevOps & Tools**: Dockerization, OpenAPI (Swagger), Git.
+* **Testing**: JUnit 5, Mockito.
+* **DevOps & Tools**: Docker, OpenAPI (Swagger), Postman, Git.
+* **Code Quality & Practices**: TDD, SOLID, Clean Code, Design Patterns.
+* **Web & UI**: HTML, XML (Android UI).
 
 👨‍💻 **Background**: Have a long-time hobbyist passion for programming, starting with Fortran, Basic, VB, and Web tech.
 
