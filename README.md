@@ -7,16 +7,17 @@ I am an aspiring **Junior Java Developer** currently based in Israel. While I am
 🚀 **Educational Project Development**: Developed Spring Boot applications with JDBC, Hibernate, and REST API integration.
 
 🛠 **Detailed Tech Stack**:
-* **Core**: Java, Spring Boot, Swing, Maven, Gradle.
-* **Data & ORM**: PostgreSQL, MongoDB; Spring Data JPA, Hibernate.
-* **Database & Integration Tools**: Flyway (migrations), Testcontainers (integration testing).
-* **Testing**: JUnit 5, Mockito.
-* **DevOps**: Docker, Git.
-* **API & Tools**: OpenAPI (Swagger), Postman.
-* **Code Quality & Practices**: TDD, SOLID, Clean Code.
-* **Web & UI**: HTML, XML (Android UI).
+* **Java Core**: OOP, Collections Framework, Stream API, Multithreading.
+* **Spring Framework**: Spring Boot, Spring MVC, Spring Data JPA, Spring Security.
+* **Data & ORM**: PostgreSQL, MongoDB; Hibernate, JDBC API, Database Schema Design.
+* **Web & API**: REST API, JWT, OpenAPI 3.0 (Swagger), Thymeleaf, Postman.
+* **Database & Integration Tools**: Flyway (migrations), Testcontainers (integration testing), DBeaver, pgAdmin 4.
+* **Testing**: JUnit 5, Mockito, Unit & Integration Testing.
+* **Code Quality & Practices**: SOLID, Clean Code, TDD.
+* **DevOps & Build Tools**: Docker, Git (GitLab), Maven, Gradle.
+* **Web & UI**: HTML, XML (Android UI), Swing.
+* **AI-Assisted Development**: AI-assisted coding, debugging, refactoring, code analysis, documentation.
 * **IDEs**: IntelliJ IDEA, Eclipse, Android Studio.
-* **Database Clients**: DBeaver, pgAdmin 4.
 
 👨‍💻 **Background**: Have a long-time hobbyist passion for programming, starting with Fortran, Basic, VB, and Web tech.
 
