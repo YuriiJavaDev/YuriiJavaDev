@@ -9,11 +9,14 @@ I am an aspiring **Junior Java Developer** currently based in Israel. While I am
 🛠 **Detailed Tech Stack**:
 * **Core**: Java, Spring Boot, Swing, Maven, Gradle.
 * **Data & ORM**: PostgreSQL, MongoDB; Spring Data JPA, Hibernate.
-* **Database Tools**: Flyway (migrations), Testcontainers (integration testing).
+* **Database & Integration Tools**: Flyway (migrations), Testcontainers (integration testing).
 * **Testing**: JUnit 5, Mockito.
-* **DevOps & Tools**: Docker, OpenAPI (Swagger), Postman, Git.
-* **Code Quality & Practices**: TDD, SOLID, Clean Code, Design Patterns.
+* **DevOps**: Docker, Git.
+* **API & Tools**: OpenAPI (Swagger), Postman.
+* **Code Quality & Practices**: TDD, SOLID, Clean Code.
 * **Web & UI**: HTML, XML (Android UI).
+* **IDEs**: IntelliJ IDEA, Eclipse, Android Studio.
+* **Database Clients**: DBeaver, pgAdmin 4.
 
 👨‍💻 **Background**: Have a long-time hobbyist passion for programming, starting with Fortran, Basic, VB, and Web tech.
 
